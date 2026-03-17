@@ -282,6 +282,7 @@ Tools for executing commands or interacting with local environments safely.
 | [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) | Web browsing MCP server. |
 | [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) | SERP and web data access. |
 | [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) | Browser automation server. |
+| [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) | AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status. |
 
 ## ⚙️ Code Execution
 
