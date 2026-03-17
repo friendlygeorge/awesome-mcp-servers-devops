@@ -321,6 +321,7 @@ Tools for executing commands or interacting with local environments safely.
 | [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) | MCP load balancing. |
 | [waystation-ai/mcp](https://github.com/waystation-ai/mcp) | Connect MCP hosts to apps. |
 | [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) | One-click MCP wrapper. |
+| [Arch Tools](https://archtools.dev) | 53 production-ready AI tools via MCP with x402 USDC payments. |
 
 ## 🚀 CI/CD
 
