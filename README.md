@@ -304,6 +304,7 @@ Tools for executing commands or interacting with local environments safely.
 | [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) | LeetCode problem access. |
 | [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) | LeetCode (global/China) access. |
 | [willibrandon/CursorMCPMonitor](https://github.com/willibrandon/CursorMCPMonitor) | MCP monitoring for Cursor. |
+| [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) | Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. |
 
 ## 🔗 Aggregators
 
