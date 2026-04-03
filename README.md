@@ -282,6 +282,7 @@ Tools for executing commands or interacting with local environments safely.
 | [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) | Web browsing MCP server. |
 | [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) | SERP and web data access. |
 | [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) | Browser automation server. |
+| [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) | AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status. |
 
 ## ⚙️ Code Execution
 
@@ -304,7 +305,12 @@ Tools for executing commands or interacting with local environments safely.
 | [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) | LeetCode problem access. |
 | [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) | LeetCode (global/China) access. |
 | [willibrandon/CursorMCPMonitor](https://github.com/willibrandon/CursorMCPMonitor) | MCP monitoring for Cursor. |
+
 | [claw-army/claude-node](https://github.com/claw-army/claude-node) | Python subprocess bridge for Claude Code CLI. |
+
+
+| [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy) | Spec-driven dev companion with persistent memory, adaptive change pipeline, and Clarity Gate. 32 tools, single Go binary. |
+
 
 ## 🔗 Aggregators
 
@@ -322,6 +328,7 @@ Tools for executing commands or interacting with local environments safely.
 | [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) | MCP load balancing. |
 | [waystation-ai/mcp](https://github.com/waystation-ai/mcp) | Connect MCP hosts to apps. |
 | [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) | One-click MCP wrapper. |
+| [Arch Tools](https://archtools.dev) | 53 production-ready AI tools via MCP with x402 USDC payments. |
 
 ## 🚀 CI/CD
 
