@@ -538,6 +538,7 @@ Vulnerability scanning directly from your AI assistant.
 | [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) | Security testing toolbox. |
 | [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server) | CyberChef API access. |
 | [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) | Recon + domain analysis. |
+| [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) | AES-256-GCM + Argon2id encrypted vault. Resolves `{{PLACEHOLDER}}` secrets so API keys never appear in prompts. |
 
 ## 📝 Collaboration
 
