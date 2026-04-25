@@ -535,6 +535,7 @@ Vulnerability scanning directly from your AI assistant.
 | [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit) | npm dependency audits. |
 | [rad-security/mcp-server](https://github.com/rad-security/mcp-server) | Kubernetes security insights. |
 | [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) | CVE-Search API. |
+| [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp) | 51 security testing tools for pentesting, vulnerability scanning, and security auditing. |
 | [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) | Security testing toolbox. |
 | [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server) | CyberChef API access. |
 | [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) | Recon + domain analysis. |
