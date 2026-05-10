@@ -388,6 +388,7 @@ GitOps deployment management via AI.
 | Repo | Notes |
 |------|-------|
 | [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) | Maven and build tooling. |
+| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ## ☁️ Cloud Platforms
 
