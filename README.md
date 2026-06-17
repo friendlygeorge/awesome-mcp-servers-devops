@@ -241,6 +241,16 @@ Multi-tool support.
 | **What it does** | Container management, deployments, environment operations. |
 | **Note** | 🛡️ Read-only mode available for safety. |
 
+### Docker MCP Server
+
+| | |
+|---|---|
+| **Repo** | [friendlygeorge/docker-mcp-server](https://github.com/friendlygeorge/docker-mcp-server) |
+| **Maintainer** | 👥 Community |
+| **What it does** | 🐳 50 tools for container lifecycle, health checks, auto-restart, Compose management, log streaming, and fleet monitoring. |
+| **Note** | 🏗️ Agent-native design — built for autonomous infrastructure management. MIT license. |
+
+
 ### Qovery
 
 | | |
@@ -264,6 +274,7 @@ Tools for executing commands or interacting with local environments safely.
 | [OthmaneBlial/term_mcp_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) | Terminal server for DeepSeek. |
 | [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) | Safe local Python execution. |
 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | Local file/process control. |
+| [friendlygeorge/cron-scheduler-mcp-server](https://github.com/friendlygeorge/cron-scheduler-mcp-server) | ⏰ Cron job scheduling with SQLite persistence, retry logic, and structured observability. |
 | [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) | Cisco pyATS network automation. |
 
 ## 🌐 Browser Automation
@@ -502,6 +513,7 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 | [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) | Dynatrace monitoring integration. |
 | [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) | Last9 observability. |
 | [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) | Uptime monitoring — 10 tools for monitor/incident management. Remote MCP (OAuth 2.0) + stdio. |
+| [friendlygeorge/system-monitoring-mcp-server](https://github.com/friendlygeorge/system-monitoring-mcp-server) | 🖥️ 19 tools for host-level monitoring — CPU, memory, disk, network, processes, systemd, logs. Agent-native. |
 
 ## 🔒 Security
 
